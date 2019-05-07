@@ -8,6 +8,17 @@ for these schemes can be easily and unobtrusively integrated into any
 application or framework that supports [Connect](http://www.senchalabs.org/connect/)-style
 middleware, including [Express](http://expressjs.com/).
 
+---
+
+<p align="center"><a href="http://www.tkqlhce.com/click-8907558-13433666" target="_top">1Password, the only password manager you should trust.</a> Industry-leading security and award winning design.</p>
+
+---
+
+[![npm](https://img.shields.io/npm/v/passport-http.svg)](https://www.npmjs.com/package/passport-http)
+[![build](https://img.shields.io/travis/jaredhanson/passport-http.svg)](https://travis-ci.org/jaredhanson/passport-http)
+[![coverage](https://img.shields.io/coveralls/jaredhanson/passport-http.svg)](https://coveralls.io/github/jaredhanson/passport-http)
+[...](https://github.com/jaredhanson/passport-http/wiki/Status)
+
 ## Install
 
     $ npm install passport-http
@@ -97,16 +108,12 @@ application:
 
 For a complete, working example, refer to the [Digest example](https://github.com/passport/express-3.x-http-digest-example).
 
-## Tests
+## Sponsorship
 
-    $ npm install --dev
-    $ make test
-
-[![Build Status](https://secure.travis-ci.org/jaredhanson/passport-http.png)](http://travis-ci.org/jaredhanson/passport-http)
-
-## Credits
-
-  - [Jared Hanson](http://github.com/jaredhanson)
+Passport is open source software.  Ongoing development is made possible by
+generous contributions from [individuals and corporations](https://github.com/jaredhanson/passport/blob/master/SPONSORS.md).
+To learn more about how you can help keep this project financially sustainable,
+please visit Jared Hanson's page on [Patreon](https://www.patreon.com/jaredhanson).
 
 ## License
 
